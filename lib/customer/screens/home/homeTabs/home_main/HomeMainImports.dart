@@ -1,0 +1,36 @@
+// ignore_for_file: file_names
+import 'package:auto_route/auto_route.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_easyloading/flutter_easyloading.dart';
+import 'package:heraggoods/customer/models/AdsModel.dart';
+import 'package:heraggoods/customer/models/DropDownModel.dart';
+import 'package:heraggoods/customer/resources/CustomerRepository.dart';
+import 'package:heraggoods/customer/screens/home/homeTabs/home_main/cat_tab_cubit/cat_tab_cubit.dart';
+import 'package:heraggoods/customer/widgets/NotData.dart';
+import 'package:heraggoods/customer/widgets/ProductGrid.dart';
+import 'package:heraggoods/customer/widgets/ProductRow.dart';
+import 'package:heraggoods/general/constants/Inputs/DropdownTextField.dart';
+import 'package:heraggoods/general/constants/Inputs/IconTextFiled.dart';
+import 'package:heraggoods/general/constants/Inputs/custom_dropDown/CustomDropDown.dart';
+import 'package:heraggoods/general/constants/ModaLs/LoadingDialog.dart';
+import 'package:heraggoods/general/constants/MyColors.dart';
+import 'package:heraggoods/general/utilities/moor_db/db.dart';
+import 'package:heraggoods/general/widgets/MyText.dart';
+import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
+import 'package:location/location.dart';
+import '../../../../../general/utilities/routers/RouterImports.gr.dart';
+import '../../../../../general/utilities/utils_functions/UtilsImports.dart';
+import '../../../../models/Dtos/CategoryChildModel.dart';
+import '../../../../models/Dtos/FilterModel.dart';
+import '../../../../models/Dtos/LocationModel.dart';
+import '../../../../models/SearchModel.dart';
+import '../../../location_address/location_cubit/location_cubit.dart';
+import 'listener_cubit/listener_cubit.dart';
+import 'product_view_cubit/product_views_cubit.dart';
+import 'brands_cubit/brands_cubit.dart';
+import 'cat_view_cubit/cat_view_cubit.dart';
+
+part 'HomeMain.dart';
+part 'HomeMainData.dart';
+part 'HomeMainAds.dart';

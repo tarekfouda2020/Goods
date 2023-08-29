@@ -1,0 +1,551 @@
+{
+  "project_info": {
+    "project_number": "710954766183",
+    "firebase_url": "https://herag-c3758.firebaseio.com",
+    "project_id": "herag-c3758",
+    "storage_bucket": "herag-c3758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:38cad0610e28b4ca8569c2",
+        "android_client_info": {
+          "package_name": "a.aait.asp.herag.goods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:1db3c9dc2f7e3ec48569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:ac778bdc8d452d718569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.arab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:37977253861af6598569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.awmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:d61715519e49afb78569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.badl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:b8bc86aa411981088569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.baloy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:09c7796844ddbc488569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.blsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:b3bce4e93622f44c8569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.elshely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:3fdca08f6d700e558569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.ghanam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:dde86a661d99caad8569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.heragAmerica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:7f968af309cadd7d8569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.moashy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:c2cf40677733c8098569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.sellandbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:cb45c642cf352ec18569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.show"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:859ce655f60544b48569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.siana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710954766183:android:e23a0d26bb2c21738569c2",
+        "android_client_info": {
+          "package_name": "sa.aait.asp.herag.youssef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBFJ8MSSl9M_lhQqIb2VT8PWKZao1800s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710954766183-ls78b7unmhgttjontjuijlbnhh4jiibm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710954766183-1vf06321bntpd29671puuv42tf3g1djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sa.aait.asp.herag.badl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

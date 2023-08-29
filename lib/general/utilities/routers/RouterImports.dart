@@ -1,0 +1,43 @@
+// ignore_for_file: file_names
+
+import 'package:auto_route/auto_route.dart';
+import 'package:heraggoods/customer/screens/add_car_followers/AddCarFollower.dart';
+import 'package:heraggoods/customer/screens/add_offer_details/OfferDetailsImports.dart';
+import 'package:heraggoods/customer/screens/add_offer_images/AddOfferImagesImports.dart';
+import 'package:heraggoods/customer/screens/add_offer_location/AddOfferLocImports.dart';
+import 'package:heraggoods/customer/screens/add_offer_success/OfferSuccessImports.dart';
+import 'package:heraggoods/customer/screens/add_offers/AddOfferImports.dart';
+import 'package:heraggoods/customer/screens/admin_banks/AdminBanksImports.dart';
+import 'package:heraggoods/customer/screens/bank_payment/BankPaymentImports.dart';
+import 'package:heraggoods/customer/screens/call_us/CallUsImports.dart';
+import 'package:heraggoods/customer/screens/change_password/ChangePasswordImports.dart';
+import 'package:heraggoods/customer/screens/chat/ChatImports.dart';
+import 'package:heraggoods/customer/screens/edit_offer_details/EditDetailsImports.dart';
+import 'package:heraggoods/customer/screens/edit_offer_images/EditOfferImagesImports.dart';
+import 'package:heraggoods/customer/screens/edit_offer_location/EditOfferLocImports.dart';
+import 'package:heraggoods/customer/screens/edit_offer_success/EditOfferSuccessImports.dart';
+import 'package:heraggoods/customer/screens/edit_profile/EditProfileImports.dart';
+import 'package:heraggoods/customer/screens/filter_location/FilterLocationImports.dart';
+import 'package:heraggoods/customer/screens/followers/FollowerImports.dart';
+import 'package:heraggoods/customer/screens/home/HomeImports.dart';
+import 'package:heraggoods/customer/screens/location_address/LocationAddressImports.dart';
+import 'package:heraggoods/customer/screens/my_products/MyProductsImports.dart';
+import 'package:heraggoods/customer/screens/offer_swearing/OfferSwearingImports.dart';
+import 'package:heraggoods/customer/screens/product_comments/ProCommentsImports.dart';
+import 'package:heraggoods/customer/screens/product_details/ProDetailsImports.dart';
+import 'package:heraggoods/customer/screens/profile/ProfileImports.dart';
+import 'package:heraggoods/customer/screens/register/Register.dart';
+import 'package:heraggoods/customer/screens/register/register_complete/RegisterComplete.dart';
+import 'package:heraggoods/customer/screens/user_comments/UserCommentsImports.dart';
+import 'package:heraggoods/customer/screens/user_products/UserProductsImports.dart';
+import 'package:heraggoods/general/screens/ContactUs.dart';
+import 'package:heraggoods/general/screens/ImageZoom.dart';
+import 'package:heraggoods/general/screens/Terms.dart';
+import 'package:heraggoods/general/screens/active_account/ActiveAccount.dart';
+import 'package:heraggoods/general/screens/forget_password/ForgetPasswordImports.dart';
+import 'package:heraggoods/general/screens/login/LoginImports.dart';
+import 'package:heraggoods/general/screens/remote_page/RemotePage.dart';
+import 'package:heraggoods/general/screens/reset_password/ResetPasswordImports.dart';
+import 'package:heraggoods/general/screens/splash/Splash.dart';
+
+part 'Router.dart';

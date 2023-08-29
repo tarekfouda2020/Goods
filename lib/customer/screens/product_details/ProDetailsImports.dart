@@ -1,0 +1,47 @@
+// ignore_for_file: file_names
+
+import 'dart:convert';
+import 'package:auto_route/auto_route.dart';
+import 'package:badges/badges.dart' as badges;
+import 'package:badges/badges.dart';
+import 'dart:math' as math;
+import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+import 'package:chewie/chewie.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_easyloading/flutter_easyloading.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:heraggoods/customer/models/AdsDetailsModel.dart';
+import 'package:heraggoods/customer/models/CommentModel.dart';
+import 'package:heraggoods/customer/models/ImageModel.dart';
+import 'package:heraggoods/customer/models/ReplyModel.dart';
+import 'package:heraggoods/customer/resources/CustomerRepository.dart';
+import 'package:heraggoods/customer/screens/home/homeTabs/home_main/HomeMainImports.dart';
+import 'package:heraggoods/customer/screens/product_comments/comment_cubit/comment_cubit.dart';
+import 'package:heraggoods/customer/widgets/TitleButton.dart';
+import 'package:heraggoods/general/blocs/auth_cubit/auth_cubit.dart';
+import 'package:heraggoods/general/blocs/generic_cubit/generic_cubit.dart';
+import 'package:heraggoods/general/blocs/user_cubit/user_cubit.dart';
+import 'package:heraggoods/general/constants/Inputs/ChatTextField.dart';
+import 'package:heraggoods/general/constants/ModaLs/LoadingDialog.dart';
+import 'package:heraggoods/general/constants/MyColors.dart';
+import 'package:heraggoods/general/models/UserModel.dart';
+import 'package:heraggoods/general/utilities/main_data/MainDataImports.dart';
+import 'package:heraggoods/general/utilities/routers/RouterImports.gr.dart';
+import 'package:heraggoods/general/utilities/utils_functions/UtilsImports.dart';
+import 'package:heraggoods/general/utilities/validator/Validator.dart';
+import 'package:heraggoods/general/widgets/CachedImage.dart';
+import 'package:heraggoods/general/widgets/DefaultAppBar.dart';
+import 'package:heraggoods/general/widgets/MyText.dart';
+import 'package:heraggoods/res.dart';
+import 'package:heraggoods/customer/models/AdsDataModel.dart';
+import 'package:heraggoods/customer/models/AdsModel.dart';
+import 'package:heraggoods/customer/screens/product_details/favourite_cubit/favourite_cubit.dart';
+import 'package:heraggoods/customer/screens/product_details/product_details_cubit/product_details_cubit.dart';
+import 'package:heraggoods/general/constants/Inputs/RichTextFiled.dart';
+import 'package:heraggoods/general/widgets/DefaultButton.dart';
+import 'package:video_player/video_player.dart';
+
+part 'ProDetailsData.dart';
+part 'ProductDetails.dart';
