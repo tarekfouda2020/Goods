@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="a.aait.asp.herag.goods">
+    package="sa.aait.asp.herag.goods">
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -13,12 +13,12 @@
     <uses-permission android:name="android.permission.RECORD_AUDIO"/>
     <uses-feature android:name="android.hardware.camera" />
     <uses-feature android:name="android.hardware.camera.autofocus" />
-    <application
+   <application
         android:label="Goods"
         android:name="${applicationName}"
-        android:icon="@mipmap/launcher_icon">
-        <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDIBH6mfPQ13UnF9aZtmaUQtuu-mQcxxb0"/>
+       android:icon="@mipmap/launcher_icon">
+       <meta-data android:name="com.google.android.geo.API_KEY"
+           android:value="AIzaSyDIBH6mfPQ13UnF9aZtmaUQtuu-mQcxxb0"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -34,10 +34,6 @@
             <meta-data
               android:name="io.flutter.embedding.android.NormalTheme"
               android:resource="@style/NormalTheme"
-              />
-            <meta-data
-              android:name="io.flutter.embedding.android.SplashScreenDrawable"
-              android:resource="@drawable/logo"
               />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>

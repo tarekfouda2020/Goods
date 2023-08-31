@@ -1,4 +1,4 @@
-package a.aait.asp.herag.goods
+package sa.aait.asp.herag.goods
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -393,7 +393,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.11;
-				PRODUCT_BUNDLE_IDENTIFIER = a.aait.asp.herag.goods;
+				PRODUCT_BUNDLE_IDENTIFIER = sa.aait.asp.herag.goods;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -531,7 +531,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.11;
-				PRODUCT_BUNDLE_IDENTIFIER = a.aait.asp.herag.goods;
+				PRODUCT_BUNDLE_IDENTIFIER = sa.aait.asp.herag.goods;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -563,7 +563,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.11;
-				PRODUCT_BUNDLE_IDENTIFIER = a.aait.asp.herag.goods;
+				PRODUCT_BUNDLE_IDENTIFIER = sa.aait.asp.herag.goods;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;

@@ -19,8 +19,8 @@ class _HomeState extends State<Home> with TickerProviderStateMixin, HomeData {
     animateTabsPages(widget.tab, context);
     // NewVersion(
     //   context: context,
-    //   iOSId: 'a.aait.asp.herag.goods',
-    //   androidId: 'a.aait.asp.herag.goods',
+    //   iOSId: 'sa.aait.asp.herag.goods',
+    //   androidId: 'sa.aait.asp.herag.goods',
     //   dialogText: "يمكنك التحديث الان للاستمتاع باجدد المميزات .",
     //   dialogTitle: "لديك تحديث جديد",
     //   dismissText: "التحديث لاحقا",
